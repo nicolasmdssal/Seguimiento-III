@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b87a884-937d-4aac-b0e1-be52749d9308" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguimiento III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cajeroElectronico/CuentaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionAcademica/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mascota/Mascota.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b87a884-937d-4aac-b0e1-be52749d9308" name="Changes" comment="add the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +86,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723140708648</updated>
     </task>
+    <task id="LOCAL-00001" summary="add the project">
+      <option name="closed" value="true" />
+      <created>1723601944194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723601944194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
